@@ -66,5 +66,44 @@
   "statusLine": {
     "type": "command",
     "command": "~/.claude/statusline.sh"
+  },
+  "spinnerVerbs": {
+    "mode": "replace",
+    "verbs": [
+      "Engaging",
+      "Analyzing",
+      "Computing",
+      "Scanning",
+      "Calculating",
+      "Processing",
+      "Hailing",
+      "Transmitting",
+      "Decoding",
+      "Triangulating",
+      "Replicating",
+      "Energizing",
+      "Transporting",
+      "Initializing",
+      "Recalibrating",
+      "Regenerating",
+      "Compressing",
+      "Assimilating",
+      "Navigating",
+      "Charting",
+      "Purging",
+      "Integrating",
+      "Shapeshifting",
+      "Cloaking",
+      "Prophesying",
+      "Securing",
+      "Defending",
+      "Negotiating",
+      "Stabilizing",
+      "Modulating",
+      "Routing",
+      "Compensating",
+      "Synchronizing",
+      "Boosting"
+    ]
   }
 }
